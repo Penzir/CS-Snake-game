@@ -11,7 +11,7 @@ This is a simple Snake game implemented using HTML, CSS, and JavaScript.
 ## Features
 
 - Classic snake gameplay.
-- Responsive design that works on both desktop and mobile browsers.
+- Responsive design that works on both desktop and (coming soon on mobile browsers).
 - Simple and clean user interface.
 
 ## Installation
